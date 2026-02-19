@@ -1,1 +1,1 @@
-See [[Vesta System]]. Test.
+See [[Vesta System]].
