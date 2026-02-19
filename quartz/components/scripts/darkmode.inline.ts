@@ -9,6 +9,8 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
   document.dispatchEvent(event)
 }
 
+emitThemeChangeEvent("light")
+
 document.addEventListener("nav", () => {
   const switchTheme = () => {
     const newTheme =
