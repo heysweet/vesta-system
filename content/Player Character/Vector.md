@@ -1,4 +1,5 @@
 Played by: Andrew
+
 Galapa/[[Clanks|Clank]] | Stalwart | Guardian
 
 ![[VECTOR.png]]

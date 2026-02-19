@@ -1,4 +1,5 @@
 Played by: Charlie
+
 Faerie | Umbral | Seer
 
 ![[staub.jpeg]]
