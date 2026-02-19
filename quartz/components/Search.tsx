@@ -13,6 +13,20 @@ const defaultOptions: SearchOptions = {
   enablePreview: true,
 }
 
+const isMac = () => {
+  if (/(Mac|iPhone|iPod|iPad)/i.test(navigator.platform)) return true;
+  if (navigator?.appVersion?.indexOf("Win") != -1) return false;
+  if (navigator?.appVersion?.indexOf("Mac") != -1) return true;
+  return false;
+}
+
+const cmdOrCtrl = () => {
+  if (isMac()) {
+    return 'cmd'
+  }
+  return 'ctrl'
+}
+
 export default ((userOpts?: Partial<SearchOptions>) => {
   const Search: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
@@ -27,7 +41,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
               <circle cx="8" cy="8" r="7" />
             </g>
           </svg>
-          <p>{i18n(cfg.locale).components.search.title}</p>
+          <p>{`${i18n(cfg.locale).components.search.title} (${cmdOrCtrl()}+k)`}</p>
         </button>
         <div class="search-container">
           <div class="search-space">
