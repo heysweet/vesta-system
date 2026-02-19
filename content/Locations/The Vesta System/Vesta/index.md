@@ -1,3 +1,9 @@
+---
+title: Vesta
+aliases:
+  - The Hearth
+---
+
 |               |            |
 | ------------- | ---------- |
 | Nickname      | The Hearth |

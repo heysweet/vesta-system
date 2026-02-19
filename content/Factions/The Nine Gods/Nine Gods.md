@@ -30,7 +30,7 @@ Wizards, Engineers, and those who keep to their books find Oceanys to be their f
 
 Those in the medical field often wear symbols of Terra on their uniform.
 
-## [[Vesta]], The Hearth
+## [[Locations/The Vesta System/Vesta/index|Vesta]], The Hearth
 
 *Wisdom and Folly*
 
@@ -42,7 +42,7 @@ Regarded as highly as Osiris and Attis in many [Hume](Factions/Humes.md) circles
 
 The most divisive deity, as their supporters are split down the middle between those who would claim freedom the highest call and those who would say chains create structure and order.*
 
-## [[Y'Shika]], The Virgin
+## [[Y'shika]], The Virgin
 
 *Innocence and Guilt*
 
