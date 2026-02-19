@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f4efe2",        // parchment
+          lightgray: "#e6dcc6",    // aged paper shadow
+          gray: "#c9bfa8",         // faded parchment edge
+          darkgray: "#5a4a3b",     // brown ink
+          dark: "#2e241c",         // near-black brown ink
+          secondary: "#7a1f1f",    // deep crimson (chapter headings)
+          tertiary: "#b0893b",     // antique gold
+          highlight: "rgba(122, 31, 31, 0.08)", // subtle red wash
+          textHighlight: "#d4af37aa", // gold text highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#f4efe2",        // parchment
+          lightgray: "#e6dcc6",    // aged paper shadow
+          gray: "#c9bfa8",         // faded parchment edge
+          darkgray: "#5a4a3b",     // brown ink
+          dark: "#2e241c",         // near-black brown ink
+          secondary: "#7a1f1f",    // deep crimson (chapter headings)
+          tertiary: "#b0893b",     // antique gold
+          highlight: "rgba(122, 31, 31, 0.08)", // subtle red wash
+          textHighlight: "#d4af37aa", // gold text highlight
         },
       },
     },
