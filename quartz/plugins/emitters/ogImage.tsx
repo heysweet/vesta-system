@@ -24,7 +24,7 @@ const defaultOptions: SocialImageOptions = {
 /**
  * Increment to cache-bust.
  */
-const IMAGE_VERSION = 1;
+const IMAGE_VERSION = 2;
 
 /**
  * Generates social image (OG/twitter standard) and saves it as `.webp` inside the public folder
