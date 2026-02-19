@@ -1,0 +1,1 @@
+The oldest surviving nation-state on Vesta, which now claims governance over the eastern continent.

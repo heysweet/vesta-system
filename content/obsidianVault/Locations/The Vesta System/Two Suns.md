@@ -1,0 +1,1 @@
+The two suns of the [[Vesta System]] are Osiris and Attis. With a binary star system, two shadows are cast most of the time. There are regular periods of [[Sunclipses]].

@@ -1,0 +1,1 @@
+A tribe of Simiah and Fungril. They seek joy in community and hallucinogenic drugs. Not a major political player but does command a large portion of the entertainment industry.

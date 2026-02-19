@@ -1,0 +1,1 @@
+A faction of Ribbets and Galapa. Led by an elected elder, they aim for harmony and balance but petition for protected ecology and environmentalism.

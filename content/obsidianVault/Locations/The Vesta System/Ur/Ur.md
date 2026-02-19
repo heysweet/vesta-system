@@ -1,0 +1,9 @@
+
+|                |                                                                        |
+| -------------- | ---------------------------------------------------------------------- |
+| Nickname       | The Frying Pane                                                        |
+| Element        | Fire                                                                   |
+| Hospitable to  | Giants, Fire Drakona                                                   |
+| Survival needs | This desert climate requires extra water reserves and heat protection. |
+
+Closest planet to the [[Two Suns]]. It's a planet of magma, volcanos, and firestorms. Giants of Ur are renowned smiths and warriors.

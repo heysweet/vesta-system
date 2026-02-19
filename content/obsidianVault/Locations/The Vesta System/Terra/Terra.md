@@ -1,0 +1,10 @@
+
+
+|                |                                                                                                                                                                                                                       |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nickname       | The Twin                                                                                                                                                                                                              |
+| Element        | Earth                                                                                                                                                                                                                 |
+| Hospitable to  | Simiahs, Fungrils, Faeries, Katari, Fauns, Firbolgs, Earth Drakona                                                                                                                                                    |
+| Survival needs | Gravity is much stronger on Terra. Shorter folk and those who pack light will suffer less than those who stand taller or wear heavier armor/gear. There may be tech that helps ease this burden, but it is expensive. |
+
+Third planet from the [[Two Suns]]. A vibrant tropical climate with a heavy, humid atmosphere. Gravity is stronger here, so you weigh more. It's inhabited by bird-like creatures mostly, and sometimes gargantuan dinosaur-like lifeforms. The surface is covered mostly by dense trees and jungles, though the planet also has water in the form of rivers and lakes. The Simiah and Fungril of Terra are famed for music and revelry.

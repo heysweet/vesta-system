@@ -1,0 +1,1 @@
+The Duologists are those who honor the Gods. Most folk ascribe to the Duological belief system, if only casually. Those who are more devout become Temple keepers and priests, often devoting their lives to one of the [[Nine Gods]], though all Gods are seen as equally influential.

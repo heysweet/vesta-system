@@ -1,0 +1,1 @@
+A downtrodden group, made up of Goblins and Orc. These races are the most at risk of violence by [[Humes]] but also not quite "wild" enough for the [[Beastkin Tribes]], so they are often ignored. They resent their position in the heirachy.
