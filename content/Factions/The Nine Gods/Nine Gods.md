@@ -38,7 +38,7 @@ Regarded as highly as Osiris and Attis in many [Hume](Factions/Humes.md) circles
 
 ## [[Har]], The Emperor
 
-*Freedom and Chains
+*Freedom and Chains*
 
 The most divisive deity, as their supporters are split down the middle between those who would claim freedom the highest call and those who would say chains create structure and order.*
 
