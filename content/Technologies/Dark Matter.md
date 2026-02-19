@@ -1,1 +1,1 @@
-The [[Technogeeks]] uncovered a strange new substance mined from the asteroid’s impact crater. Known as **Dark Matter**, its properties are poorly understood, but its potential has already drawn intense interest—and quiet concern.
+The [[Technogeeks]] uncovered a strange new substance mined from the [[Cataclysm|asteroid]]’s impact crater. Known as **Dark Matter**, its properties are poorly understood, but its potential has already drawn intense interest—and quiet concern.

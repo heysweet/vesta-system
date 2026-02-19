@@ -6,4 +6,4 @@ The Technogeeks are the guild of crafters, engineers, and learned folk in the ca
 
 Lately, [[Prince Giltrek]] has been pouring money and support into the Technogeeks, aiming to create more [[Terradome|Terradomes]] and beginning development the first Interplanetary Airships (thus far a failed project).
 
-Most recently, the Technogeeks uncovered a strange new substance mined from the asteroid’s impact crater. Known as [[Dark Matter]], its properties are poorly understood, but its potential has already drawn intense interest—and quiet concern.
+Most recently, the Technogeeks uncovered a strange new substance mined from the [[Cataclysm|asteroid]]’s impact crater. Known as [[Dark Matter]], its properties are poorly understood, but its potential has already drawn intense interest—and quiet concern.
