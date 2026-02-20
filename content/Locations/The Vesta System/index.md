@@ -22,7 +22,7 @@ At the heart of the Vesta system are the [[Two Suns]], **Osiris** and **Attis**.
 | [[Ur]]      | The Frying Pan | Fire      | Giants, Fire Drakona                                               |
 | [[Oceanys]] | The Torrent    | Water     | Galapas, Ribbets, Water Drakona                                    |
 | [[Terra]]   | The Twin       | Earth     | Simiahs, Fungrils, Faeries, Katari, Fauns, Firbolgs, Earth Drakona |
-| [[Locations/The Vesta System/Vesta/index|Vesta]]   | The Hearth     |           | All                                                                |
+| [[Locations/The Vesta System/Vesta/index\|Vesta]]   | The Hearth     |           | All                                                                |
 | [[Har]]     | The Storm      | Lightning | Orcs, Lightning Drakona                                            |
 | [[Y'shika]] | The Citadel    | Holy      | Clanks, Holy Drakona                                               |
 | [[Lucien]]  | The Silent     | Umbra     | Goblins, Umbra Drakona                                             |
