@@ -4,10 +4,12 @@ aliases:
   - The Hearth
 ---
 
-|               |            |
-| ------------- | ---------- |
-| Nickname      | The Hearth |
-| Hospitable to | All        |
+|                       |                  |
+| --------------------- | ---------------- |
+| Nickname              | The Hearth       |
+| Hospitable to         | All              |
+| [[Nine Gods\|God]] of | Wisdom and Folly |
+| God title             | The Hearth       |
 
 ## Details
 
