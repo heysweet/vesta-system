@@ -1,6 +1,6 @@
 Played by: Andrew
 
-Galapa/[[Clanks|Clank]] | Stalwart | Guardian
+Galapa / [[Clanks|Clank]] | Stalwart | Guardian
 
 ![[VECTOR.png]]
 ## Origin
