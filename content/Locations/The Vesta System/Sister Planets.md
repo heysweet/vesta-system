@@ -1,4 +1,4 @@
-Beyond [[Locations/The Vesta System/Vesta/index|Vesta]], the [[Beastkin Tribes]] dwell primarily on the Sister planets. Vastly diverse in form and culture, each tribe is represented by an elder on the [[Tribal Council]], one of the [[index|Vesta System]]'s primary governing bodies.
+Beyond [[Locations/The Vesta System/Vesta/index|Vesta]], the [[Beastkin Tribes]] dwell primarily on the Sister planets. Vastly diverse in form and culture, each tribe is represented by an elder on the [[Tribal Council]], one of the [[Locations/The Vesta System/index|Vesta System]]'s primary governing bodies.
 
 Travel between the planets in the system is possible through the use of the [[Interplanetary Portals]]. While Vesta can be found in the table below, it is not considered a Sister Planet.
 
