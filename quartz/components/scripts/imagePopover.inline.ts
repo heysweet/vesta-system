@@ -137,7 +137,7 @@ function setTopRightImageStyle() {
       z-index: 10;
     }
     
-    @media (min-width: 468px) {
+    @media (min-width: 568px) {
       [data-topright="true"] {
         max-width: 220px;
         margin: 0 0 1.5rem 2rem;
