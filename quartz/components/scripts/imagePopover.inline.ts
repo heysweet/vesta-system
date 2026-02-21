@@ -134,11 +134,16 @@ function setTopRightImageStyle() {
     [data-topright="true"] {
       float: right;
       margin: 0 0 1.5rem 2rem;
-      margin-top: -4.2rem;
       max-width: 220px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.15);
       border-radius: 8px;
       z-index: 10;
+    }
+    
+    @media (min-width: 668px) {
+      [data-topright="true"] {
+        margin-top: -4.2rem;
+      }
     }
   `;
   document.head.appendChild(style);
