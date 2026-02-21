@@ -235,6 +235,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     const alt = match?.groups?.alt ?? ""
                     const width = match?.groups?.width ?? "auto"
                     const height = match?.groups?.height ?? "auto"
+                    // Mark as interactive if sized
+                    const isInteractive = !!match?.groups?.width
                     return {
                       type: "image",
                       url,
@@ -243,6 +245,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                           width,
                           height,
                           alt,
+                          ...(isInteractive ? { "data-interactive": "true" } : {}),
                         },
                       },
                     }

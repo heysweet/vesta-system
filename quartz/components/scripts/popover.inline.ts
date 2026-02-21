@@ -1,6 +1,10 @@
+
+import { enableImagePopover } from "./imagePopover.inline"
 import { computePosition, flip, inline, shift } from "@floating-ui/dom"
 import { normalizeRelativeURLs } from "../../util/path"
 import { fetchCanonical } from "./util"
+// Enable interactive image popover globally
+enableImagePopover()
 
 const p = new DOMParser()
 let activeAnchor: HTMLAnchorElement | null = null
