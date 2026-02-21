@@ -132,14 +132,19 @@ function setTopRightImageStyle() {
   const style = document.createElement("style");
   style.innerHTML = `
     [data-topright="true"] {
-      float: right;
-      margin: 0 0 1.5rem 2rem;
-      max-width: 220px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.15);
       border-radius: 8px;
       z-index: 10;
     }
     
+    @media (min-width: 468px) {
+      [data-topright="true"] {
+        max-width: 220px;
+        margin: 0 0 1.5rem 2rem;
+        float: right;
+      }
+    }
+
     @media (min-width: 668px) {
       [data-topright="true"] {
         margin-top: -4.2rem;
