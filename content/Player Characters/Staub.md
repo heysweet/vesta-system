@@ -1,7 +1,9 @@
+![[staub.jpeg|221]]
+
 Played by: Charlie
 
-Faerie | Umbral | Seer
+Faerie
 
-![[staub.jpeg|240]]
+Umbral | Seer
 
 Has a mentor who is interested in the [[Interplanetary Portals]]

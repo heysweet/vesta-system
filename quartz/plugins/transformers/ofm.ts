@@ -237,6 +237,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     const height = match?.groups?.height ?? "auto"
                     // Mark as interactive if sized
                     const isInteractive = !!match?.groups?.width
+                    // Tag as top-right only if width ends with '1'
+                    const isTopRight = typeof match?.groups?.width === "string" && match.groups.width.endsWith("1")
                     return {
                       type: "image",
                       url,
@@ -246,6 +248,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                           height,
                           alt,
                           ...(isInteractive ? { "data-interactive": "true" } : {}),
+                          ...(isTopRight ? { "data-topright": "true" } : {}),
                         },
                       },
                     }

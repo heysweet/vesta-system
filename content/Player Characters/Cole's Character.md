@@ -1,5 +1,7 @@
 Played by: Cole
 
-Ribbit | Wayfinder | Ranger
+Ribbit
+
+Wayfinder | Ranger
 
 Hard-boiled Detective

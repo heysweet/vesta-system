@@ -1,5 +1,7 @@
+![[darius.png|221]]
+
 Played by: Sam
 
-Human | (Divine Wielder OR Winged Sentinel) | Seraph
+Human
 
-![[darius.png|240]]
+(Divine Wielder OR Winged Sentinel) | Seraph

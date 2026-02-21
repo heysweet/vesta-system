@@ -4,6 +4,7 @@ aliases:
   - Vesta System
   - The Vesta System
 ---
+![[planet.png]]
 
 In the wake of calamity, divisions between the [[Humes]] and the [[Beastkin]] are pushed to their limit as the Hume attempt to colonize beyond their broken planet.
 
