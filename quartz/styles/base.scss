@@ -639,3 +639,8 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+
+.content-meta, .article-title {
+  background-color: var(--light);
+}
