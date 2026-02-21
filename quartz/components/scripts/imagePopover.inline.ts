@@ -165,3 +165,9 @@ if (document.readyState === "loading") {
 } else {
   setTopRightImageStyle();
 }
+
+// Re-apply styles on SPA navigation
+document.addEventListener("nav", () => {
+  setInteractiveImageCursor();
+  setTopRightImageStyle();
+})
