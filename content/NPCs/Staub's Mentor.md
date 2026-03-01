@@ -1,0 +1,3 @@
+The Mentor is a scrappy inventor who is interested in investigating the [[Interplanetary Portals]]. They have taken on [[Staub]] as a mentee. Additionally, the Mentor discovered the discarded husk of [[Vector]]'s remains and brings them back into repair.
+
+The Mentor is currently on a quest, following up on the rumors of an ancient golden clank with horns, who turns out to be [[Twenty-Two]]. To bolster their efforts, they hire competing detectives, [[Darius]] and [[Cole's Character]] to hunt out this clank from the era of the [[Infernis]], in hopes of uncovering more about the Interplanetary Portals.
