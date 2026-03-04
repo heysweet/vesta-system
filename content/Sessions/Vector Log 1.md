@@ -1,6 +1,6 @@
 March 6, 2025
 
-## Characters
+## Party
 
 * [[Vector]]
 * [[Twenty-Two]]

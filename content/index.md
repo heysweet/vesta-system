@@ -1,10 +1,12 @@
 ---
-title: Welcome to The Vesta System
+title: Welcome to Vector's Memory Log
 aliases:
   - Vesta System
   - The Vesta System
 ---
 ![[planet.png]]
+
+Welcome to [[Vector]]'s memory log. While my memories may attempt to capture the truths of the world before me, I am limited to my own perspective, and possibly even biases. I make every effort to keep my information as up-to-date as possible, but warn any reader that I am only a mere [[Clanks|Clank]].
 
 In the wake of calamity, divisions between the [[Humes]] and the [[Beastkin]] are pushed to their limit as the Hume attempt to colonize beyond their broken planet.
 
@@ -36,4 +38,4 @@ Each of the heavenly bodies found in the Vesta system is held in such high regar
 
 ## Sessions
 
-* [[Session 1]] 
+* [[Vector Log 1]] 
