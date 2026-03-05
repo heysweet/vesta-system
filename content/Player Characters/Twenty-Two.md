@@ -1,3 +1,8 @@
+---
+aliases:
+  - the Horned One
+  - Horned One
+---
 ![[twenty two.png|221]]
 
 Played by: KP

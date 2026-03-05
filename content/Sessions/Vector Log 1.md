@@ -4,8 +4,8 @@ March 6, 2025
 
 * [[Vector]]
 * [[Twenty-Two]]
-* [[Darius]]
-* [[Staub]]
+* [[Darius Sunseeker]]
+* [[Staub Sternenlicht]]
 * [[Cole's Character]]
 
 ## Summary

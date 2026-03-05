@@ -18,8 +18,8 @@ In the wake of calamity, divisions between the [[Humes]] and the [[Beastkin]] ar
 
 * [[Vector]]
 * [[Twenty-Two]]
-* [[Darius]]
-* [[Staub]]
+* [[Darius Sunseeker]]
+* [[Staub Sternenlicht]]
 * [[Cole's Character]]
 
 ## Planets

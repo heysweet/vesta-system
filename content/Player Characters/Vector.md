@@ -18,6 +18,6 @@ One day, when VECTOR was tasked with retrieving something for Prince Giltrek, an
 
 VECTOR was discarded for scrap, in favor of a proper Defender model. Prince Giltrek came to believe the Galapa were too slow, and began upon his journey of distrust of all the [[Beastkin]].
 
-Decades pass, and VECTOR’s discarded husk is found by a scrappy inventor, [[Staub's Mentor]] – one who brings him back to life in the lower city. Though years have passed, VECTOR’s prime directive of protecting the Prince remains.
+Decades pass, and VECTOR’s discarded husk is found by a scrappy inventor, [[Kuhl Simple]] – one who brings him back to life in the lower city. Though years have passed, VECTOR’s prime directive of protecting the Prince remains.
 
-The inventor, alongside their mentee [[Staub]], is interested in learning more about the portals and hires two competing detectives to find a mysterious ancient Clank from the days of the Infernis.
+The inventor, alongside their mentee [[Staub Sternenlicht]], is interested in learning more about the portals and hires two competing detectives to find a mysterious ancient Clank from the days of the Infernis.
