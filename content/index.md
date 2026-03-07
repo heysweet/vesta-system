@@ -36,5 +36,7 @@ Each of the heavenly bodies found in the Vesta system is held in such high regar
 
 ## Sessions
 
+[[The Story So Far]]
+
 * [[Session Log 1]] 
 * [[Session Log 2]]

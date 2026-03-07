@@ -6,17 +6,13 @@ March 6, 2025
 * [[Darius Sunseeker]]
 * [[Staub Sternenlicht]]
 * [[Gork Boulderbouncer]]
-
 ## Summary
-
 It's been a week since [[Kuhl Simple]] has gone missing. His mentee, [[Staub Sternenlicht|Staub]], was given a note, saying only "Meet the Ribbit at [[Peggy's Third Leg]]." When [[Gork Boulderbouncer|Gork]] arrives, [[Darius Sunseeker|Darius]] stumbles into him in the doorway. The trio make amends as they learn of a deal about to go down on the other side of town to the [[Locations/The Vesta System/Vesta/Haven/Clockturner's District/index|Clockturner's District]]. They rush over to [[Survivor's Gilt]], where they discover an odd sight -- a knightly clank, [[Vector]], atop golden wolf, dragging a dead elf scrapper through a green glowing barrier. Vector was looking for his master Kuhl, when he was ambushed. [[Twenty-Two]] is a druid and an ancient artifact from a time long past, the famed golden horned one.
 
 The party fights their way through some enforcers as they fall back into a large garage in the back. Two looming figures enter the fray, a [[human with dark hair|human with dark hair]] and [[their orc companion|their orc companion]]. The human casts a large bright light, blinding most of the party. Recognizing these people, Gork warns the group of their danger as they flee the scene back to Peggy's Third Leg.
 
 Staub turns to Vector and excitedly exclaims, "It's her, the golden horned one!"
-
 ## Notes
-
 It's been a week since [[Kuhl Simple]] has gone missing. His mentee, [[Staub Sternenlicht|Staub]], was given a note, saying only "Meet the Ribbit at Peggy's Third Leg." The contact [[Gork Boulderbouncer|Gork]] has been waiting outside for 10 minutes. When Gork heads into the bar, he's looking for a human and starts approaching random humans. Staub clocks Gork as the likely ribbit, but they fail to connect as Gork heads back to peak outside. [[Darius Sunseeker|Darius]] stumbles into the bar, slamming the door into Gork, and offers to buy a round of drinks to make up for it.
 
 Kuhl's subservient clank [[Vector]] also went missing while looking for him. He was ambushed by some scrappers, who he now identifies as his captures in the back of a room with one entrance. Across from Vector is [[Twenty-Two]], an ancient horned clanks known by some as the Golden Horned One. As the scrapper leave the room, Vector looks for a way out. The limiter on the chest has his movements dramatically slowed. But he successfully makes his way over to the computer terminal, where he finds a password protected limiter control. Clicking on the "Personal" folder has him looking at Beastkin porn. Intuiting his captor's desires, Vector successfully tries the password "BeastlyDesires123" and is able to move at full speed.
@@ -72,7 +68,7 @@ Staub cracks a whip unsuccessfully at Gork to knock off the hat.
 
 Humans talking about the only future have is going up! Nah, Solaris is a shithole. 
 
-Not seeing their contact, Gork attempts to leave but on their way out run into [[Darius Sunseeker]]. Tan skinned human with close cropped full head of hair (not balding). Does not bathe a lot but he is still homeless. Orphaned, bathed when he can. Doesn't smell bad. Black leather armor, trimmed, yellow chalk, intricate little designs. Has a nice sword from a job he did. Stumbled loudly into the bar, knows Brennec the bartender. Cartoon slams.
+Not seeing their contact, Gork attempts to leave but on their way out run into [[Darius Sunseeker]]. Tan skinned human with close cropped full head of hair (not balding). Does not bathe a lot but he is still homeless. Orphaned, bathed when he can. Doesn't smell bad. Black leather armor, trimmed, yellow chalk, intricate little designs. Has a nice sword from a job he did. Stumbled loudly into the bar, knows [[Peggy's Third Leg#Brennec|Brennec]] the bartender. Cartoon slams.
 
 How's the family? All safe. Grok picks up hat "Fucking Tall-ees." Darius calls him racist as he heads out, and asks for two drinks. Third for the faerie friend.
 
