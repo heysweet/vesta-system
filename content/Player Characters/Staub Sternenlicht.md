@@ -1,3 +1,8 @@
+---
+aliases:
+  - Charlie
+  - Staub
+---
 ![[staub.jpeg|221]]
 
 Played by: Charlie

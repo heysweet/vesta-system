@@ -2,6 +2,7 @@
 aliases:
   - the Horned One
   - Horned One
+  - KP
 ---
 ![[twenty two.png|221]]
 

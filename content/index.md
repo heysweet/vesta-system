@@ -20,7 +20,7 @@ In the wake of calamity, divisions between the [[Humes]] and the [[Beastkin]] ar
 * [[Twenty-Two]]
 * [[Darius Sunseeker]]
 * [[Staub Sternenlicht]]
-* [[Cole's Character]]
+* [[Gork Boulderbouncer]]
 
 ## Planets
 

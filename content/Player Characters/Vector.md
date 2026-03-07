@@ -1,3 +1,7 @@
+---
+aliases:
+  - Andrew
+---
 ![[VECTOR.png|221]]
 
 Played by: Andrew

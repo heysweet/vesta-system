@@ -2,6 +2,7 @@
 title: The Vesta System
 aliases:
   - Vesta System
+  - The Vesta System
 ---
 ![[vertical_1.png|201]]
 
